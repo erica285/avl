@@ -1,0 +1,1 @@
+top | grep load > /home/erica/Área\ de\ Trabalho/backup/tarefas.txt

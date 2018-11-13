@@ -1,0 +1,14 @@
+echo "Copiando Arquivos ..."
+
+cp /home/erica/Documentos -r /home/erica/Área\ de\ Trabalho/backup
+
+cp /home/erica/Downloads -r /home/erica/Área\ de\ Trabalho/backup
+
+cp /home/erica/Imagens -r /home/erica/Área\ de\ Trabalho/backup
+
+cp /home/erica/Área\ de\ Trabalho -r /home/erica/Área\ de\ Trabalho/backup
+
+echo "Arquivos copiados"
+
+
+
